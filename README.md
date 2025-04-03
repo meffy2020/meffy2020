@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeobinLee&fontSize=90&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=meffy2020&fontSize=90&animation=fadeIn&fontAlignY=38)
 
 [![meffy2020's github stats](https://github-readme-stats.vercel.app/api?username=meffy2020)](https://github.com/meffy2020/github-readme-stats)
 
