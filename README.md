@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![leeseobin's github stats](https://github-readme-stats.vercel.app/api?username=leeseobin00)](https://github.com/leeseobin00/github-readme-stats)
+
 <!--
 **meffy2020/meffy2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
